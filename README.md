@@ -2,7 +2,7 @@
 
 My daily progress while learning Java programming.
 
-## Day 1
+## Day 1 
 Learned : 
 - What is Java
 - Downloaded Java
