@@ -7,6 +7,7 @@ Learned :
 - What is Java
 - Downloaded Java
 - Wrote my first Hello World program
+- Program: Main.java
   
 ## Day 2
 Learned :
