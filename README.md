@@ -7,7 +7,7 @@ Learned :
 - What is Java
 - Downloaded Java
 - Wrote my first Hello World program
-- Program: Main.java
+- Program: [HelloWorld.java](https://github.com/ezaan-ali-30/java-learning-journey/blob/main/HelloWorld.java)
   
 ## Day 2
 Learned :
@@ -20,3 +20,4 @@ Learned :
 - What is Scanner in Java
 - How to take input from user
 - Program to find area of a rectangle
+- Program: [RectangleArea.java](https://github.com/ezaan-ali-30/java-learning-journey/blob/main/RectangleArea.java)
