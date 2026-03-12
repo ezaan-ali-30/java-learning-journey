@@ -14,3 +14,9 @@ Learned :
 - What is variable
 - Primitive and Reference (only string) data types
 - Wrote some programs of primitive and reference data types
+
+## Day 3
+Learned :
+- What is Scanner in Java
+- How to take input from user
+- Program to find area of a rectangle
