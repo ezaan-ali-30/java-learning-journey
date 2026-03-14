@@ -21,3 +21,6 @@ Learned :
 - How to take input from user
 - Program to find area of a rectangle
 - Program: [RectangleArea.java](https://github.com/ezaan-ali-30/java-learning-journey/blob/main/RectangleArea.java)
+
+## Day 4
+Created a fill in the blanks game (mad libs) project.
