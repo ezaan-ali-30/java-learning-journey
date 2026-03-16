@@ -24,3 +24,11 @@ Learned :
 
 ## Day 4
 Created a fill in the blanks game (mad libs) project.
+
+## Day 5
+Learned :
+- What is Arithmetic Operators
+- What is Augmented Assignment Operators
+- Increment and Decrement Operators
+- What is Order of Operations [P-E-M-D-A-S]
+Wrote a shopping cart program
