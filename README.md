@@ -33,3 +33,21 @@ Learned :
 - What is Order of Operations [P-E-M-D-A-S]
 
 Wrote a shopping cart program
+
+## Day 6
+Learned :
+- What is if else statements and wrote some programs of it
+- What is Random class in Java and wrote a program which produces random numbers
+- Some math related concepts and methods :-
+                                            - Math.PI
+                                            - Math.E
+                                            - Math.pow
+                                            - Math.abs
+                                            - Math.sqrt
+                                            - Math.cbrt
+                                            - Math.round
+                                            - Math.ceil
+                                            - Math.floor
+                                            - Math.max
+                                            - Math.min
+ - Wrote some programs with these methods    
