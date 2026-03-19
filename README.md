@@ -51,3 +51,7 @@ Learned :
                                             - Math.max
                                             - Math.min
  - Wrote some programs with these methods    
+
+## Day 7
+Learned :
+What is Printf, how to use it and where it can be used
