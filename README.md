@@ -55,3 +55,5 @@ Learned :
 ## Day 7
 Learned :
 What is Printf, how to use it and where it can be used
+
+Taking a break because of festivals
