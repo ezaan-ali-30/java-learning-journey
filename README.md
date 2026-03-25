@@ -59,4 +59,4 @@ What is Printf, how to use it and where it can be used
 Taking a break because of festivals
 
 ## Day 8
-Program : CompoundInterestCalculator.java
+Program: [CompoundInterestCalculator.java](https://github.com/ezaan-ali-30/java-learning-journey/blob/main/CompoundInterestCalculator.java)
