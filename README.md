@@ -60,3 +60,7 @@ Taking a break because of festivals
 
 ## Day 8
 Program: [CompoundInterestCalculator.java](https://github.com/ezaan-ali-30/java-learning-journey/blob/main/CompoundInterestCalculator.java)
+
+## Day 9
+Learned :
+What is nested if statement
