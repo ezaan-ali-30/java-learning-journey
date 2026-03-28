@@ -64,3 +64,7 @@ Program: [CompoundInterestCalculator.java](https://github.com/ezaan-ali-30/java-
 ## Day 9
 Learned :
 What is nested if statement
+
+## Day 10
+Learned :
+What is Substrings and how to use it
