@@ -68,3 +68,6 @@ What is nested if statement
 ## Day 10 - Day 11
 Learned :
 What is Substrings and how to use it (I am having a hard time learning this)
+
+## Day 12
+Created a weight converter program (cannot post due to some technical issues)
