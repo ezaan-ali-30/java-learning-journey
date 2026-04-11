@@ -68,9 +68,12 @@ Learned :
 What is Substrings and how to use it (I am having a hard time learning this)
 
 ## Day 12 - Day 13
-Created a weight converter program (cannot post due to some technical issues)
+Wrote a weight converter program (cannot post due to some technical issues)
 Uploaded the program : [WeightConverter.java](https://github.com/ezaan-ali-30/java-learning-journey/blob/main/WeightConverter.java)
 
 ## Day 14
 Learned :
 What is ternary operator and how to use it
+
+## Day 15
+Wrote a temperature converter program (cannot post due to some technical issues)
