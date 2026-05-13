@@ -77,3 +77,7 @@ What is ternary operator and how to use it
 
 ## Day 15
 Wrote a temperature converter program (cannot post due to some technical issues)
+
+This repository contains my early Java learning progress.
+
+From now on, I will focus more on building projects and improving my programming skills.
